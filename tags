@@ -1,8 +1,0 @@
-# create
-git tag -a <NLP> -m "I just tagged my repo with NLP"
- 
-# push
-git push origin <NLP>
- 
-# delete (if necessary)
-git push --delete origin <NLP>
