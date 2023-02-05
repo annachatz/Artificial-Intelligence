@@ -2,4 +2,4 @@
 
 Reversi - Othello game implementation using minimax algorithm
 
-Naive Bayes Bernoulli classifier implementation for text classification #NaiveBayes
+Naive Bayes Bernoulli classifier implementation for text classification 
